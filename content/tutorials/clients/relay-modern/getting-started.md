@@ -21,7 +21,7 @@ related:
 
 # Getting Started with Relay Modern
 
-[Realy Modern](https://facebook.github.io/relay/docs/relay-modern.html) is the very promising evolution and first 1.0-release of Facebook's homegrown GraphQL client _Relay_. It was announced at this year's F8 conference and officially released by Lee Byron during [his talk](https://www.youtube.com/watch?v=OdsMz7h_Li0) at React Europe.
+[Relay Modern](https://facebook.github.io/relay/docs/relay-modern.html) is the very promising evolution and first 1.0-release of Facebook's homegrown GraphQL client _Relay_. It was announced at this year's F8 conference and officially released by Lee Byron during [his talk](https://www.youtube.com/watch?v=OdsMz7h_Li0) at React Europe.
 
 This post is a step-by-step tutorial with the goal of building a simple Instagram application from scratch using [`create-react-app`](https://github.com/facebookincubator/create-react-app). You can take a look at the final version of the code [here](https://github.com/graphcool-examples/react-graphql/tree/master/quickstart-with-relay-modern), just follow the instructions in the README to get up-and-running.
 
